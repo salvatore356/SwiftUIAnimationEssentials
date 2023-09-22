@@ -39,52 +39,54 @@ Feel free to explore the code samples, dive into the documentation, and elevate 
 
 Learn how to create explicit animations in SwiftUI, where you have fine-grained control over the animation parameters.
 
-![Explicit Animations Demo](video/explicit-animations.mp4)
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/efde9dab-847f-49ec-935c-8e94fc7d2591
 
 ### 2. Implicit Animations
 
 Explore implicit animations, a simpler way to animate changes to your views without specifying explicit animation properties.
 
-![Implicit Animations Demo](video/implicit-animations.mp4)
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/b7484046-8870-401d-b006-bb7a799c54ae
+
 
 ### 3. Transition Animations
 
 Discover transition animations, allowing smooth transitions when adding or removing views within your interface.
 
-![Transition Animations Demo 1](video/transition-animations.mp4)
 
-![Transition Animations Demo 2](video/crossfade.mp4)
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/fc975bf6-975f-4b94-8fdc-322bad4b2777
 
-![Transition Animations Demo 3](video/slidein.mp4)
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/aa8e3559-118a-4b1c-9138-fea651a84fe3
 
-![Transition Animations Demo 4](video/custom-transition.mp4)
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/b4e26614-0abc-4a53-9373-5b768ccd1d76
+
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/12f23013-f483-495d-b0d3-0fcd45db19f7
 
 ### 4. Ease Functions
 
 Understand the concept of ease functions or timing curves, which dictate how animations progress over time.
 
-![Ease Functions Demo](video/ease-functions.mp4)
+
 
 ### 5. Interactive Animations
 
 Dive into interactive animations, where user interactions such as taps, swipes, and drags trigger dynamic animations.
 
-![Interactive Animations Demo](video/interactive-animations.mp4)
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/bd2a6c29-2565-4a7e-a3a7-9971014a8858
 
 ### 6. Delays in Animations
 
 Learn to introduce delays into animations, controlling when animations start relative to other actions or animations.
 
-![Delays in Animations Demo](video/delays-in-animations.mp4)
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/f61527f5-2a3d-4c6b-a02b-ec4db0d8c092
 
 ### 7. Sequencing Animations
 
 Master the art of sequencing animations, ensuring they start or complete in a specific order to achieve desired effects.
 
-![Sequencing Animations Demo](video/sequencing-animations.mp4)
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/92bb0272-e64e-481e-afc4-0dac831fc887
 
 ### 8. Repeating Animations
 
 Explore repeating animations that play in a continuous loop, adding visual interest and interactivity to your UI.
 
-![Repeating Animations Demo](video/repeating-animations.mp4)
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/c4d7fc10-35d9-4f61-b89f-b05765f3c51b
