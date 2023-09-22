@@ -14,14 +14,14 @@ Explore the code examples, learn the basics, and enhance your SwiftUI animation 
 ## Table of Contents
 - [Overview](#overview)
 - [Demo](#demo)
-    - [Explicit Animations](#explicit-animations)
-    - [Implicit Animations](#implicit-animations)
-    - [Transition Animations](#transition-animations)
-    - [Ease Functions](#ease-functions)
-    - [Interactive Animations](#interactive-animations)
-    - [Delays in Animations](#delays-in-animations)
-    - [Sequencing Animations](#sequencing-animations)
-    - [Repeating Animations](#repeating-animations)
+    - [Explicit Animations](#1-explicit-animations)
+    - [Implicit Animations](#2-implicit-animations)
+    - [Transition Animations](#3-transition-animations)
+    - [Ease Functions](#4-ease-functions)
+    - [Interactive Animations](#5-interactive-animations)
+    - [Delays in Animations](#6-delays-in-animations)
+    - [Sequencing Animations](#7-sequencing-animations)
+    - [Repeating Animations](#8-repeating-animations)
 
 ## Overview
 
