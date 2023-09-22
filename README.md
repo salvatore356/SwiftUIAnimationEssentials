@@ -65,13 +65,13 @@ https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/12f230
 
 Understand the concept of ease functions or timing curves, which dictate how animations progress over time.
 
-
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/bd2a6c29-2565-4a7e-a3a7-9971014a8858
 
 ### 5. Interactive Animations
 
 Dive into interactive animations, where user interactions such as taps, swipes, and drags trigger dynamic animations.
 
-https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/bd2a6c29-2565-4a7e-a3a7-9971014a8858
+https://github.com/salvatore356/SwiftUIAnimationEssentials/assets/5830312/4d919b0a-86df-4054-a3de-4c8bb9fa141f
 
 ### 6. Delays in Animations
 
